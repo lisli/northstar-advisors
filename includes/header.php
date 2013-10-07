@@ -1,7 +1,7 @@
 <a href="/index.php"><img src="/images/logo.gif" width="270" height="99" alt="NorthStar Museums Logo" class="logo" /></a>
 <div id="navigation">
   <ul>
-    <li id="home"><a href="/index.php">Home</a></li>
+   <li id="home"><a href="/index.php"></a></li>
     <li id="about">About</li>
       <ul class="dropdown">
         <li><a href="/about/philadelphia/index.php">Philadelphia</a></li>
