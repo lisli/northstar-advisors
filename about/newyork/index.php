@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>NorthStar Advisors</title>
-<link href="../css/nsm.css" rel="stylesheet" type="text/css" />
+<link href="../../css/nsm.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
