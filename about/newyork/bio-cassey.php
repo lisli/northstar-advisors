@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>NorthStar Advisors</title>
-<link href="../css/nsm.css" rel="stylesheet" type="text/css" />
+<link href="../../css/nsm.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -11,13 +11,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script>
-<?php include("../includes/meta-keywords.php"); ?>
-<?php include("../includes/meta-description.php"); ?>
+<?php include("../../includes/meta-keywords.php"); ?>
+<?php include("../../includes/meta-description.php"); ?>
 </head>
 <body class="about">
 <div id="wrapper">
   <div id="header">
-    <?php include("../includes/header.php"); ?>
+    <?php include("../../includes/header.php"); ?>
   </div>
   <div id="wrapper-content">
     <div id="content">
@@ -26,7 +26,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <h2>Dianna Cassey</h2>
           <h3>Senior Project Manager</h3>
           <div class="bio-teaser last">
-            <div class="teaser-photo"><a href="bio-street.php"><img src="../images/bio-cassey.jpg" alt="Ronald A. Street" width="100" height="100" /></a></div>
+            <div class="teaser-photo"><a href="bio-street.php"><img src="../../images/bio-cassey.jpg" alt="Ronald A. Street" width="100" height="100" /></a></div>
             <div class="teaser-text">
               <p>Dianna has proven successful in managing multiple projects, overseeing staff and completing projects on schedule and within budget. Her attention to detail, as well as her strong organizational and communicational skills, helps her deliver the quality each client expects, as well as the ability to become a quick team-leader. Her broad experience in management and real estate allows her to consistently think outside of the box, helping project solutions to be presented.</p>
               <p>Dianna&rsquo;s exceptional experience and ability to oversee multiphase construction projects gives her a great advantage over most other project managers, especially in the education field, where there are no exceptions to the budget or deadlines. She comes with over 10 years experience in renovation and construction management aimed specifically towards the education sector (mostly Philadelphia-area K-12). </p>
@@ -78,13 +78,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       </div>
       <div id="sidebar">
         <div class="spotlight">
-          <?php include("../includes/success-stories.php"); ?>
+          <?php include("../../includes/success-stories.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/featured-services.php"); ?>
+          <?php include("../../includes/featured-services.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/why-northstar.php"); ?>
+          <?php include("../../includes/why-northstar.php"); ?>
         </div>
       </div>
       <div class="clear"></div>
@@ -93,9 +93,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </div>
 <div id="wrapper-footer">
   <div id="footer">
-    <?php include("../includes/footer.php"); ?>
+    <?php include("../../includes/footer.php"); ?>
   </div>
 </div>
-<?php include("../includes/analytics.php"); ?>
+<?php include("../../includes/analytics.php"); ?>
 </body>
 </html>

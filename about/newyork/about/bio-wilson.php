@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>NorthStar Museums : A Division of NorthStar Advisors</title>
-<link href="../css/nsm.css" rel="stylesheet" type="text/css" />
+<link href="../../css/nsm.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -11,13 +11,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script>
-<?php include("../includes/meta-keywords.php"); ?>
-<?php include("../includes/meta-description.php"); ?>
+<?php include("../../includes/meta-keywords.php"); ?>
+<?php include("../../includes/meta-description.php"); ?>
 </head>
 <body class="about">
 <div id="wrapper">
   <div id="header">
-    <?php include("../includes/header.php"); ?>
+    <?php include("../../includes/header.php"); ?>
   </div>
   <div id="wrapper-content">
     <div id="content">
@@ -26,7 +26,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <h2>Joseph Wilson</h2>
           <h3> Vice President, Client Accounting &amp; Contracts</h3>
           <div class="bio-teaser last">
-            <div class="teaser-photo"><a href="bio-street.php"><img src="../images/bio-wilson.jpg" alt="Joseph Wilson" width="100" height="100" /></a><a href="bio-harvey.php"></a><a href="bio-street.php"></a></div>
+            <div class="teaser-photo"><a href="bio-street.php"><img src="../../images/bio-wilson.jpg" alt="Joseph Wilson" width="100" height="100" /></a><a href="bio-harvey.php"></a><a href="bio-street.php"></a></div>
             <div class="teaser-text">
               <p>Joe brings over 30 years of experience to his role as Vice President for NorthStar Advisors. Focused on results, he has well-developed skills in strategic and tactical planning, problem identification and resolution, major project control, budget development and management, and facilities management.<br />
                 <br />
@@ -59,16 +59,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       </div>
       <div id="sidebar">
         <div class="spotlight">
-          <?php include("../includes/success-stories.php"); ?>
+          <?php include("../../includes/success-stories.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/featured-services.php"); ?>
+          <?php include("../../includes/featured-services.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/why-northstar.php"); ?>
+          <?php include("../../includes/why-northstar.php"); ?>
         </div>
         <div class="spotlight last">
-          <?php include("../includes/video-street.php"); ?>
+          <?php include("../../includes/video-street.php"); ?>
         </div>
       </div>
       <div class="clear"></div>
@@ -77,9 +77,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </div>
 <div id="wrapper-footer">
   <div id="footer">
-    <?php include("../includes/footer.php"); ?>
+    <?php include("../../includes/footer.php"); ?>
   </div>
 </div>
-<?php include("../includes/analytics.php"); ?>
+<?php include("../../includes/analytics.php"); ?>
 </body>
 </html>

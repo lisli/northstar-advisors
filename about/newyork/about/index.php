@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>NorthStar Museums : A Division of NorthStar Advisors</title>
-<link href="../css/nsm.css" rel="stylesheet" type="text/css" />
+<link href="../../css/nsm.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -11,8 +11,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script>
-<?php include("../includes/meta-keywords.php"); ?>
-<?php include("../includes/meta-description.php"); ?>
+<?php include("../../includes/meta-keywords.php"); ?>
+<?php include("../../includes/meta-description.php"); ?>
 </head>
 <body class="about">
 <div id="wrapper">
@@ -22,7 +22,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   <div id="wrapper-content">
     <div id="content">
       <div id="content-main">
-        <div id="banner"><img src="../images/banner-about.jpg" width="685" height="237" alt="About NorthStar Museums" /></div>
+        <div id="banner"><img src="../../images/banner-about.jpg" width="685" height="237" alt="About NorthStar Museums" /></div>
         <div id="text">
           <h2>About NorthStar Museums</h2>
           <h3>Founded in 1998, NorthStar Advisors – a full-service program, project and relocation management firm – launched NorthStar Museums to help museum staffs and trustees give life to their mission statements. </h3>
@@ -52,7 +52,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <div class="rule"></div>
           <h3>Meet NorthStar's Key Players</h3>
           <div class="teaser">
-            <div class="teaser-photo"><a href="bio-street.php"><img src="../images/bio-street.jpg" alt="Ronald A. Street" width="100" height="100" /></a></div>
+            <div class="teaser-photo"><a href="bio-street.php"><img src="../../images/bio-street.jpg" alt="Ronald A. Street" width="100" height="100" /></a></div>
             <div class="teaser-text">
               <h6>Ronald A. Street, Principal and Managing Director</h6>
               <p>As Principal and Managing Director of NorthStar Advisors, Ron oversees the daily operations of the firm. With over 30 years of experience in engineering design, real estate development, project management and construction services, the firm’s clients are assured of the highest quality and level of integrity of service.</p>
@@ -61,7 +61,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <div class="clear"></div>
           </div>
           <div class="teaser">
-            <div class="teaser-photo"><a href="bio-harvey.php"><img src="../images/bio-harvey.jpg" alt="Rosella Harvey" width="100" height="100" /></a><a href="bio-harvey.php"></a></div>
+            <div class="teaser-photo"><a href="bio-harvey.php"><img src="../../images/bio-harvey.jpg" alt="Rosella Harvey" width="100" height="100" /></a><a href="bio-harvey.php"></a></div>
             <div class="teaser-text">
               <h6>Rosella Harvey, RA, LEED AP, Principal</h6>
               <p>As a Principal, Rosella offers NorthStar’s clients a rich and diverse background.  She has experience managing large, complicated projects, as well as departments with numerous employees and accounts. </p>
@@ -71,7 +71,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           </div>
          
          <div class="teaser last">
-          <div class="teaser-photo"><a href="bio-wilson.php"><img src="../images/bio-wilson.jpg" alt="Joseph Wilson" width="100" height="100" /></a><a href="bio-wilson.php"></a></div>
+          <div class="teaser-photo"><a href="bio-wilson.php"><img src="../../images/bio-wilson.jpg" alt="Joseph Wilson" width="100" height="100" /></a><a href="bio-wilson.php"></a></div>
             <div class="teaser-text">
               <h6>Joseph Wilson, Vice President, Client Accounting &amp; Contracts</h6>
               <p>Joe brings over 30 years of experience to his role as Vice President for NorthStar Advisors. Focused on results, he has well-developed skills in strategic and tactical planning, problem identification and resolution, major project control, budget development and management, and facilities management.</p>
@@ -82,16 +82,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
            <div id="sidebar">
         <div class="spotlight">
-          <?php include("../includes/success-stories.php"); ?>
+          <?php include("../../includes/success-stories.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/featured-services.php"); ?>
+          <?php include("../../includes/featured-services.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/why-northstar.php"); ?>
+          <?php include("../../includes/why-northstar.php"); ?>
         </div>
         <div class="spotlight last">
-          <?php include("../includes/video-street.php"); ?>
+          <?php include("../../includes/video-street.php"); ?>
         </div>
       </div>
       <div class="clear"></div>
@@ -100,9 +100,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </div>
 <div id="wrapper-footer">
   <div id="footer">
-    <?php include("../includes/footer.php"); ?>
+    <?php include("../../includes/footer.php"); ?>
   </div>
 </div>
-<?php include("../includes/analytics.php"); ?>
+<?php include("../../includes/analytics.php"); ?>
 </body>
 </html>

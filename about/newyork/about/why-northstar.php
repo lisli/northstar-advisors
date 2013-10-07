@@ -3,8 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>NorthStar Museums : A Division of NorthStar Advisors</title>
-<link href="../css/nsm.css" rel="stylesheet" type="text/css" />
-<link href="../css/lightbox.css" rel="stylesheet" type="text/css" />
+<link href="../../css/nsm.css" rel="stylesheet" type="text/css" />
+<link href="../../css/lightbox.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="/scripts/prototype.js"></script>
 <script type="text/javascript" src="/scripts/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="/scripts/lightbox.js"></script>
@@ -15,13 +15,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script>
-<?php include("../includes/meta-keywords.php"); ?>
-<?php include("../includes/meta-description.php"); ?>
+<?php include("../../includes/meta-keywords.php"); ?>
+<?php include("../../includes/meta-description.php"); ?>
 </head>
 <body class="about">
 <div id="wrapper">
   <div id="header">
-    <?php include("../includes/header.php"); ?>
+    <?php include("../../includes/header.php"); ?>
   </div>
   <div id="wrapper-content">
     <div id="content">
@@ -33,7 +33,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           bricks-and-mortar reality is a monumental undertaking.</h3>
           <table width="625" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:20px;">
             <tr>
-              <td align="left" valign="top"><a href="../images/order-to-chaos-large.gif" rel="lightbox[print]" title="NSM Order to Chaos"><img src="../images/order-to-chaos-small.gif" width="300" height="197" alt="Order to Chaos" style="margin-right:25px;" /></a><br />
+              <td align="left" valign="top"><a href="../../images/order-to-chaos-large.gif" rel="lightbox[print]" title="NSM Order to Chaos"><img src="../../images/order-to-chaos-small.gif" width="300" height="197" alt="Order to Chaos" style="margin-right:25px;" /></a><br />
                 <span class="disclaimer">(click image to enlarge)</span></td>
               <td align="left" valign="top"><p>That’s where NorthStar Museums comes in. We are a project management firm that specializes in helping museum executive directors, trustees, staffs and supporters successfully complete complex projects.</p>
               <p>Our knowledge of museums – coupled with nearly three decades of project management experience – allows you to stay focused on your mission, while we manage the myriad details of planning, designing and building or refreshing a successful museum. </p></td>
@@ -68,13 +68,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       </div>
       <div id="sidebar">
         <div class="spotlight">
-          <?php include("../includes/success-stories.php"); ?>
+          <?php include("../../includes/success-stories.php"); ?>
         </div>
         <div class="spotlight">
-          <?php include("../includes/featured-services.php"); ?>
+          <?php include("../../includes/featured-services.php"); ?>
         </div>
         <div class="spotlight last">
-          <?php include("../includes/video-street.php"); ?>
+          <?php include("../../includes/video-street.php"); ?>
         </div>
       </div>
       <div class="clear"></div>
@@ -83,9 +83,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </div>
 <div id="wrapper-footer">
   <div id="footer">
-    <?php include("../includes/footer.php"); ?>
+    <?php include("../../includes/footer.php"); ?>
   </div>
 </div>
-<?php include("../includes/analytics.php"); ?>
+<?php include("../../includes/analytics.php"); ?>
 </body>
 </html>
