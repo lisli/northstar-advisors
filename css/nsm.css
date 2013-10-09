@@ -152,69 +152,83 @@ h6 {
 /* MAIN NAVIGATION */
 
 #navigation {
-	position: absolute;
-	height: 66px;
+	height: 45px;
 	width: 673px;
-	top: 0px;
 	right: 0px;
-}
-#navigation ul {
-	list-style-type: none;
-}
-#navigation li {
-	display: inline;
-}
-#navigation a {
-	background-repeat: no-repeat;
-	background-position: 0px 0px;
-	display: block;
-	float: left;
+	float: right;
 	height: 66px;
 }
-#home a {
-	width:82px;
+
+#navigation > ul {
+	list-style-type: none;
+	display: inline-block;
+	height: 100%;
 }
 
-#about a {
-	width:89px;
+
+#navigation > ul > li {
+	display: block;
+	position: relative;
+	float: left;
+	text-transform: uppercase;
+	padding-right: 35px;
+	height: 100%;
 }
 
-#case-studies a {
-	width:139px;
+#navigation > ul > li:last-child {
+	padding-right: 0;
 }
 
-#services a {
-	width:106px;
+#navigation > ul > li > a {
+	color: #999999;
+	display: block;
+	width: 100%;
+	height: 100%;
+	line-height: 66px;
+	font-weight: bold;
 }
 
-#testimonials a {
-	width:131px;
+#navigation li:hover a{
+	color: #ffffff;
+	text-decoration: none;
 }
 
-#contact a {
-	width:126px;
+#navigation li:hover ul a {
+	color: #181818;
+	text-decoration: none;
 }
-
-#navigation a:hover {
-	background-position:0px -66px;
-}
-
-body.home #home a {background-position:0px -132px;}
-body.about #about a {background-position:0px -132px;}
-body.case-studies #case-studies a {background-position:0px -132px;}
-body.services #services a {background-position:0px -132px;}
-body.testimonials #testimonials a {background-position:0px -132px;}
-body.news #news a {background-position:0px -132px;}
-body.contact #contact a {background-position:0px -132px;}
 
 
 #navigation ul ul {
-	display: none;
+	display: none; 
+	position: absolute;
+	padding: 5px;
+	background-color: white;
+	border: 5px solid #e2f0fd;
+	-webkit-box-shadow: 4px 4px 5px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow: 4px 4px 5px rgba(50, 50, 50, 0.75);
+	box-shadow: 4px 4px 5px rgba(50, 50, 50, 0.75);
+}
+
+#navigation ul ul li {
+	list-style: none;
+	padding-top: 10px;
+}
+
+#navigation ul ul li a {
+	font-weight: bold;
+	color: #181818;
+
+}
+
+#navigation ul ul li a:hover {
+	color: #d76c1e;
 }
 
 #navigation ul li:hover > ul {
 		display: block;
 	}
+
 
 
 
